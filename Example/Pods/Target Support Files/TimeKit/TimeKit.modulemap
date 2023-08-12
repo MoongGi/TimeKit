@@ -1,0 +1,6 @@
+framework module TimeKit {
+  umbrella header "TimeKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TimeKit",
+  "version": "0.1.0",
+  "summary": "A short description of TimeKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MoongGi/TimeKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "김문기": "hihibibi00@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/MoongGi/TimeKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Sources/TimeKit/Classes/**/*"
+}
