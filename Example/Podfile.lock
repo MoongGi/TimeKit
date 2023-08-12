@@ -1,5 +1,5 @@
 PODS:
-  - TimeKit (0.1.0)
+  - TimeKit (1.0.0)
 
 DEPENDENCIES:
   - TimeKit (from `../`)
