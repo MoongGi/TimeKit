@@ -1,0 +1,16 @@
+PODS:
+  - TimeKit (0.1.0)
+
+DEPENDENCIES:
+  - TimeKit (from `../`)
+
+EXTERNAL SOURCES:
+  TimeKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TimeKit: 6be08d4001c2ec31ac0391935e9fd4e7a4fd449a
+
+PODFILE CHECKSUM: 75e8cfcec510e17c49bc8610d94d42a886c00bac
+
+COCOAPODS: 1.12.1
